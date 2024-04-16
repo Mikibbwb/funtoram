@@ -2,10 +2,10 @@
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 [project]
-name = "example_package_YOUR_USERNAME_HERE"
-version = "0.0.1"
+name = "functionram"
+version = "1.0"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="Miki", email="l0926@pjwstk.edu.pl" },
 ]
 description = "Stores functions work in cache, so your pc won't do same function twice and will get that from cache"
 readme = "README.md"
@@ -17,5 +17,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/Mikibbwb/funtoram/tree/package"
